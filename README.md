@@ -13,7 +13,7 @@ We run the program on the Ubuntu 22.04.4 LTS system.
 ## Quick start
 
 ### Input format
-MSCPred supports variants in CSV format as input. The input file should contain at least 7 columns in the header as follows. [Sample file](./data/test.csv)
+MSCPred supports variants in CSV format as input. The input file should contain at least 5 columns in the header as follows. [Sample file](./data/test.csv)
 
 |  Chr  | Pos |  Ref  |  Alt  |  Label  |   ...  |
 | ----- | --- | ----- | ----- | ------- |  ----- |
