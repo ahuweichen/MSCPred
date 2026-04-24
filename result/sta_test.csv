@@ -1,0 +1,2 @@
+Model,Recall,SPE,Precision,F1,MCC,Acc,AUC,AUPR,RunTime
+MSCPred,0.886,0.787,0.897,0.892,0.669,0.854,0.922,0.958,2025/7/20 13:44
